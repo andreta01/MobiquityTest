@@ -1,0 +1,5 @@
+com\mobiquityinc\packer\Pack.class
+com\mobiquityinc\packer\PackageInventory.class
+com\mobiquityinc\packer\PackageTransformer.class
+com\mobiquityinc\exception\APIException.class
+com\mobiquityinc\packer\Packer.class
